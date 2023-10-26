@@ -3,9 +3,9 @@
 Meu nome é Nicole Marinho.
 
 - Utilizo a plataforma Alura para aprender sobre programação. 
-- Estou me desenvolvendo nas linguagens JavaScript,HTML e CSS.
+- Estou me desenvolvendo nas linguagens JavaScript, HTML e CSS.
 - Utilizo este espaço para minha organização e compartilhamento de meus projetos.
 
 
-### Vocẽ pode entrar em contato comigo 📫 
+### Você pode entrar em contato comigo 📫 
 nicole.marinho@escola.pr.gov.br
