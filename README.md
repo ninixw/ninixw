@@ -8,4 +8,8 @@ Meu nome é Nicole Marinho.
 
 
 ### Você pode entrar em contato comigo 📫 
+
 nicole.marinho@escola.pr.gov.br
+
+
+![](https://media.tenor.com/IvgLJdre5IsAAAAd/jungkook-jk.gif)
